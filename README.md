@@ -19,7 +19,7 @@ Building
 
 pidvbip requires the following dependencies:
 
-libmpg123-dev libfaad-dev liba52-dev libavahi-client-dev libfreetype6-dev
+libmpg123-dev libfaad-dev liba52-dev libavahi-client-dev libfreetype6-dev libavcodec-dev libavformat-dev
 
 After installing the above libraries, you can build pidvbip by typing
 "./configure && make" in the source code directory.
